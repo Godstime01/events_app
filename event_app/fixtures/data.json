@@ -1,0 +1,210 @@
+[
+    {
+        "model": "event_app.event",
+        "pk": 1,
+        "fields": {
+            "title": "Event 1",
+            "description": "Description for Event 1",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 2,
+        "fields": {
+            "title": "Event 2",
+            "description": "Description for Event 2",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 3,
+        "fields": {
+            "title": "Event 3",
+            "description": "Description for Event 3",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 4,
+        "fields": {
+            "title": "Event 4",
+            "description": "Description for Event 4",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 5,
+        "fields": {
+            "title": "Event 5",
+            "description": "Description for Event 5",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 6,
+        "fields": {
+            "title": "Event 6",
+            "description": "Description for Event 6",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 7,
+        "fields": {
+            "title": "Event 7",
+            "description": "Description for Event 7",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 8,
+        "fields": {
+            "title": "Event 8",
+            "description": "Description for Event 8",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 9,
+        "fields": {
+            "title": "Event 9",
+            "description": "Description for Event 9",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 10,
+        "fields": {
+            "title": "Event 10",
+            "description": "Description for Event 10",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 11,
+        "fields": {
+            "title": "Event 11",
+            "description": "Description for Event 11",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 12,
+        "fields": {
+            "title": "Event 12",
+            "description": "Description for Event 12",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 13,
+        "fields": {
+            "title": "Event 13",
+            "description": "Description for Event 13",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 14,
+        "fields": {
+            "title": "Event 14",
+            "description": "Description for Event 14",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 15,
+        "fields": {
+            "title": "Event 15",
+            "description": "Description for Event 15",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    },
+    {
+        "model": "event_app.event",
+        "pk": 16,
+        "fields": {
+            "title": "Event 16",
+            "description": "Description for Event 16",
+            "date": "2022-04-12",
+            "time": "12:00",
+            "max_participants": 30,
+            "organiser": 1,
+            "status": "Upcoming"
+        }
+    }
+]

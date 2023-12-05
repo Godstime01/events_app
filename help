@@ -1,0 +1,13 @@
+to fix the admin styles
+
+cp -r lib/python3.10/site-packages/django/contrib/admin/static/admin static
+
+
+npx tailwindcss -i ./static/src/input.css -o ./static/src/output.css --watch
+
+
+/ home page wold display all upcoming events with a form for easy search, via placee and date
+/accounts/profile/<username>/
+
+/search/
+/events/reserve
